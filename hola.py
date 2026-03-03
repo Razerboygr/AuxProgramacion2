@@ -1,1 +1,1 @@
-print("hola mundo")
+print("si lees esto auxi esto es porque la serie frieren es la mejor serie de anime de la historia y no hay nada  que puedas hacer para cambiar mi opinion Auxi")
